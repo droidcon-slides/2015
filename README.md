@@ -79,7 +79,7 @@ AUGUST 27-28 / 8AM-6PM
 - [Tools of the Trade by Sebastiano Poggi](https://speakerdeck.com/rock3r/tools-of-the-trade-droidcon-nyc-2015)
 - Gradle: From User to Addict by Jake Ouellette
 - Better Code Through Lint and Checkstyle by Marc Prengemann
-- Android Developer Options: What can those toggles do for me? by Andrea Falcone
+- [Android Developer Options: What can those toggles do for me? by Andrea Falcone](https://speakerdeck.com/asfalcone/android-developer-options)
 - Android M Runtime Permissions by Mark Murphy
 
 **11:50am**
