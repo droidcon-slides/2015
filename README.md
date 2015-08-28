@@ -69,7 +69,7 @@ AUGUST 27-28 / 8AM-6PM
 - What’s New in Android UI Engineering by Roman Nurik, Nick Butcher, Chris Banes
 
 **10:10am**
-- Adding a new ingredient to Location-Based AR by Noe Branagan
+- [Adding a new ingredient to Location-Based AR by Noe Branagan](https://speakerdeck.com/noebranagan/location-based-ar-with-beacons)
 - Android, May I? by Larry Schiefer
 - [@AnnotationProcessors ("ByExample") by Michael Evans](https://speakerdeck.com/michaelevans/at-annotationprocessors-byexample-droidcon-nyc-2015)
 - Beautiful Typography on Android (or close enough) by Lisa Wray
