@@ -84,8 +84,8 @@ AUGUST 27-28 / 8AM-6PM
 
 **11:50am**
 - Voice Actions & Interaction API: Ubiquitous & Hands-Free Interfaces for Android. by Nitya Narasimhan
-- 10 ways to Improve Your Android App Performance by Boris Farber
-- Data Binding Techniques by Jacob Tabak
+- [10 ways to Improve Your Android App Performance by Boris Farber](http://www.slideshare.net/seamaster29/10-ways-to-improve-your-android-app)
+- [Data Binding Techniques by Jacob Tabak](https://speakerdeck.com/jacobtabak/data-binding-techniques-at-droidcon-nyc-2015)
 - The Road to 60FPS by Jason Sendros
 - Creating Offline Mobile Apps that Always Work by William Hoang
 
