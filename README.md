@@ -54,7 +54,7 @@ AUGUST 27-28 / 8AM-6PM
 **5:10pm**
 - Forks, Fragmentation, and the Future of Android by Chuck Greb
 - Reflection No Reflection - Boosting performance on Android by bypassing Reflection API by Stéphane Nicolas
-- Using Styles and Themes Without Going Crazy by Dan Lew
+- [Using Styles and Themes Without Going Crazy by Dan Lew](https://speakerdeck.com/dlew/using-styles-and-themes-without-going-crazy-1)
 - Data binding in 2015: Reactive Data Binding and Firebase by Mike McDonald
 
 **6:00pm**
