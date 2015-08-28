@@ -29,7 +29,7 @@ AUGUST 27-28 / 8AM-6PM
 
 **1:30pm**
 - Mobile Payments Opportunities for Android Developers by Sam Edwards
-- Speed up your app  by Udi Cohen
+- [Speed up your app  by Udi Cohen](https://speakerdeck.com/udinic/speed-up-your-app-droidcon-nyc-2015)
 - [Mastering RecyclerView Layouts by Dave Smith](https://speakerdeck.com/devunwired/mastering-recyclerview-layouts)
 - What To Do About Fragments? by Bill Phillips
 
@@ -37,11 +37,11 @@ AUGUST 27-28 / 8AM-6PM
 - [Why, Hello There, Camera 2 API by Huyen Dao](https://speakerdeck.com/randomlytyping/android-camera-2-api)
 - Making Sense of the Touch System by Philippe Breault
 - Your Brand in a Material World by Liam Spradlin
-- A Pirate’s Guidelines for Android by Lisa Neigut
+- [A Pirate’s Guidelines for Android by Lisa Neigut](https://speakerdeck.com/niftynei/a-pirates-guidelines-for-android)
 
 **3:30pm**
 - Monetizing Free-to-Play: Finding the Right Balance between In-App Purchases vs. Ads by Naman Goel
-- Successful Continuous Integration on Android by Stephen D'Amico
+- [Successful Continuous Integration on Android by Stephen D'Amico](https://speakerdeck.com/sddamico/continuous-integration-for-android-applications)
 - [Realm: Building a mobile database by Christian Melchior](http://www.slideshare.net/ChristianMelchior/realm-building-a-mobile-database)
 - Feedback Prototyping: the fastest way to an MVP by Jordan Matthiesen
 
