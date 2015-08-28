@@ -91,7 +91,7 @@ AUGUST 27-28 / 8AM-6PM
 
 **1:30pm**
 - An Intro to VR with Cardboard and Tango by Dario Laverde
-- Android Engineering for Scale by Jamie McDonald
+- [Android Engineering for Scale by Jamie McDonald](https://speakerdeck.com/jdamcd/android-engineering-for-scale)
 - How the Main Thread works by Michael Bailey
 - Animation to Guide Us All - How animations can improve the User Experience of your application by Marcos Paulo Damasceno
 
