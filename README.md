@@ -3,7 +3,6 @@
 ![subway](./art/subway_graphic.png)
 
 ## Index
-2015
 * [New York](#DROIDCON-NYC-2015)
 
 ## DROIDCON NYC 2015
