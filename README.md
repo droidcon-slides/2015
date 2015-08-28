@@ -98,7 +98,7 @@ AUGUST 27-28 / 8AM-6PM
 **2:20pm**
 - Game Basics: Animations with SurfaceView by Ana Redmond
 - Building a Node.js Backend in the Cloud for Android Apps by Nick Landry
-- Introduction to Functional Reactive Programming by Juan Gomez
+- [Introduction to Functional Reactive Programming by Juan Gomez](https://speakerdeck.com/juandg/intro-to-functional-reactive-programming-droidcon-mtl-2015)
 - Debug Builds: A New Hope by Matt Precious
 - Building an awesome Android app with Firebase by Frank van Puffelen
 
