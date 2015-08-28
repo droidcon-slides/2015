@@ -93,7 +93,7 @@ AUGUST 27-28 / 8AM-6PM
 - An Intro to VR with Cardboard and Tango by Dario Laverde
 - Android Engineering for Scale by Jamie McDonald
 - How the Main Thread works by Michael Bailey
-- Animation to Guide Us All - How animations can improve the User Experience of your application by Marcos Paulo Damasceno
+- [Animation to Guide Us All - How animations can improve the User Experience of your application by Marcos Paulo Damasceno](https://speakerdeck.com/marcospaulo/animations-to-guide-us-all)
 
 **2:20pm**
 - Game Basics: Animations with SurfaceView by Ana Redmond
