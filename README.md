@@ -72,11 +72,11 @@ AUGUST 27-28 / 8AM-6PM
 **10:10am**
 - Adding a new ingredient to Location-Based AR by Noe Branagan
 - Android, May I? by Larry Schiefer
-- @AnnotationProcessors ("ByExample") by Michael Evans
+- [@AnnotationProcessors ("ByExample") by Michael Evans](https://speakerdeck.com/michaelevans/at-annotationprocessors-byexample-droidcon-nyc-2015)
 - Beautiful Typography on Android (or close enough) by Lisa Wray
 
 **11:00am**
-- Tools of the Trade by Sebastiano Poggi
+- [Tools of the Trade by Sebastiano Poggi](https://speakerdeck.com/rock3r/tools-of-the-trade-droidcon-nyc-2015)
 - Gradle: From User to Addict by Jake Ouellette
 - Better Code Through Lint and Checkstyle by Marc Prengemann
 - Android Developer Options: What can those toggles do for me? by Andrea Falcone
