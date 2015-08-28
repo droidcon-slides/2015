@@ -78,7 +78,7 @@ AUGUST 27-28 / 8AM-6PM
 **11:00am**
 - Tools of the Trade by Sebastiano Poggi
 - Gradle: From User to Addict by Jake Ouellette
-- Better Code Through Lint and Checkstyle byMarc Prengemann
+- Better Code Through Lint and Checkstyle by Marc Prengemann
 - Android Developer Options: What can those toggles do for me? by Andrea Falcone
 - Android M Runtime Permissions by Mark Murphy
 
