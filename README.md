@@ -61,3 +61,59 @@ AUGUST 27-28 / 8AM-6PM
 - [Fearless Internationalization and Localization Across the Nations by Siena Aguayo](http://www.slideshare.net/SienaAguayo/fearless-internationalization-and-localization-across-the-nations)
 - Creating and Publishing Your Own Awesome Open Source Android Libraries by Danielle Emma Vass
 - Chat about the Droidcon app (aka pregame) by Kevin Galligan
+
+
+#### Friday, August 28
+**9:20am**
+- What’s New in Android UI Engineering by Roman Nurik, Nick Butcher, Chris Banes
+
+**10:10am**
+- Adding a new ingredient to Location-Based AR by Noe Branagan
+- Android, May I? by Larry Schiefer
+- @AnnotationProcessors ("ByExample") by Michael Evans
+- Beautiful Typography on Android (or close enough) by Lisa Wray
+
+**11:00am**
+- Tools of the Trade by Sebastiano Poggi
+- Gradle: From User to Addict by Jake Ouellette
+- Better Code Through Lint and Checkstyle byMarc Prengemann
+- Android Developer Options: What can those toggles do for me? by Andrea Falcone
+- Android M Runtime Permissions by Mark Murphy
+
+**11:50am**
+- Voice Actions & Interaction API: Ubiquitous & Hands-Free Interfaces for Android. by Nitya Narasimhan
+- 10 ways to Improve Your Android App Performance by Boris Farber
+- Data Binding Techniques by Jacob Tabak
+- The Road to 60FPS by Jason Sendros
+- Creating Offline Mobile Apps that Always Work by William Hoang
+
+**1:30pm**
+- An Intro to VR with Cardboard and Tango by Dario Laverde
+- Android Engineering for Scale by Jamie McDonald
+- How the Main Thread works by Michael Bailey
+- Animation to Guide Us All - How animations can improve the User Experience of your application by Marcos Paulo Damasceno
+
+**2:20pm**
+- Game Basics: Animations with SurfaceView by Ana Redmond
+- Building a Node.js Backend in the Cloud for Android Apps by Nick Landry
+- Introduction to Functional Reactive Programming by Juan Gomez
+- Debug Builds: A New Hope by Matt Precious
+- Building an awesome Android app with Firebase by Frank van Puffelen
+
+**3:45pm**
+- Getting on TV: Mobile Apps for Chromecast - Somya Jain
+- Whoa, Views can do that? WindowManager ideas and tricks! by Eric Cochran
+- Android Forestry at Square by Logan Johnson
+- Painless UI Testing by Kaushik Gopal
+- A simple SDK for creating and understanding app growth. by Evan Groth
+
+**4:30pm**
+- Android Metaprogramming by Audrey Troutt
+- "Buy a plunger before you need a plunger" - DevOps tools for Android by Brent Watson
+- Be a Good Citizen: Develop Maintainable Apps by Annyce Davis
+- Don’t Get Lost in Translation: Strategies for Serializing Data Structures by Christopher Brown
+
+**5:15pm**
+- Session: Building a Peer-to-Peer App with Couchbase Mobile by William Hoang
+- Making Mobile Commerce Fun by Bulletproof Android
+- Turning Your Mobile App into a Growth Engine. by Evan Groth
