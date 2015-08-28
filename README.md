@@ -48,7 +48,7 @@ AUGUST 27-28 / 8AM-6PM
 
 **4:20pm**
 - Monetizing apps on the Play Store: Integrating In-app Billing in your Android App by Yash Prabhu
-- Fast deterministic screenshot tests for Android by Arnold Noronha
+- [Fast deterministic screenshot tests for Android by Arnold Noronha](http://www.slideshare.net/ArnoldNoronha/fast-deterministic-screenshot-tests-for-android)
 - Android Accessibility 101 by Haley Rose Smith
 - [TextView how to turn design into reality for multiple languages by Elliott Chenger](https://speakerdeck.com/erchenger/textviews-and-localization)
 
@@ -77,7 +77,7 @@ AUGUST 27-28 / 8AM-6PM
 **11:00am**
 - [Tools of the Trade by Sebastiano Poggi](https://speakerdeck.com/rock3r/tools-of-the-trade-droidcon-nyc-2015)
 - Gradle: From User to Addict by Jake Ouellette
-- Better Code Through Lint and Checkstyle by Marc Prengemann
+- [Better Code Through Lint and Checkstyle by Marc Prengemann](http://www.slideshare.net/marcprengemann/better-code-through-lint-and-checkstyle)
 - [Android Developer Options: What can those toggles do for me? by Andrea Falcone](https://speakerdeck.com/asfalcone/android-developer-options)
 - Android M Runtime Permissions by Mark Murphy
 
