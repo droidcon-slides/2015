@@ -95,7 +95,7 @@ AUGUST 27-28 / 8AM-6PM
 - [Animation to Guide Us All - How animations can improve the User Experience of your application by Marcos Paulo Damasceno](https://speakerdeck.com/marcospaulo/animations-to-guide-us-all)
 
 **2:20pm**
-- Game Basics: Animations with SurfaceView by Ana Redmond
+- [Game Basics: Animations with SurfaceView by Ana Redmond](http://infinut.com/2015/08/29/slides-from-my-droidcon-talk-on-animations-using-surface-view/)
 - Building a Node.js Backend in the Cloud for Android Apps by Nick Landry
 - [Introduction to Functional Reactive Programming by Juan Gomez](https://speakerdeck.com/juandg/intro-to-functional-reactive-programming-droidcon-mtl-2015)
 - Debug Builds: A New Hope by Matt Precious
