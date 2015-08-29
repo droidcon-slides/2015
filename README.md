@@ -109,7 +109,7 @@ AUGUST 27-28 / 8AM-6PM
 - A simple SDK for creating and understanding app growth. by Evan Groth
 
 **4:30pm**
-- Android Metaprogramming by Audrey Troutt
+- [Android Metaprogramming by Audrey Troutt](https://speakerdeck.com/atroutt/android-metaprogramming)
 - "Buy a plunger before you need a plunger" - DevOps tools for Android by Brent Watson
 - Be a Good Citizen: Develop Maintainable Apps by Annyce Davis
 - Don’t Get Lost in Translation: Strategies for Serializing Data Structures by Christopher Brown
