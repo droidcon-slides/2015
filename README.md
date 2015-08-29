@@ -111,7 +111,7 @@ AUGUST 27-28 / 8AM-6PM
 **4:30pm**
 - [Android Metaprogramming by Audrey Troutt](https://speakerdeck.com/atroutt/android-metaprogramming)
 - "Buy a plunger before you need a plunger" - DevOps tools for Android by Brent Watson
-- Be a Good Citizen: Develop Maintainable Apps by Annyce Davis
+- [Be a Good Citizen: Develop Maintainable Apps by Annyce Davis](http://www.slideshare.net/AnnyceDavis/develop-maintainable-apps-droidcon-2015)
 - Don’t Get Lost in Translation: Strategies for Serializing Data Structures by Christopher Brown
 
 **5:15pm**
