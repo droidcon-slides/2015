@@ -79,7 +79,7 @@ AUGUST 27-28 / 8AM-6PM
 - Gradle: From User to Addict by Jake Ouellette
 - [Better Code Through Lint and Checkstyle by Marc Prengemann](http://www.slideshare.net/marcprengemann/better-code-through-lint-and-checkstyle)
 - [Android Developer Options: What can those toggles do for me? by Andrea Falcone](https://speakerdeck.com/asfalcone/android-developer-options)
-- Android M Runtime Permissions by Mark Murphy
+- [Android M Runtime Permissions by Mark Murphy](https://commonsware.com/presos/droidconNYC2015)
 
 **11:50am**
 - Voice Actions & Interaction API: Ubiquitous & Hands-Free Interfaces for Android. by Nitya Narasimhan
