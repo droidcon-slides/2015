@@ -66,7 +66,7 @@ AUGUST 27-28 / 8AM-6PM
 
 #### Friday, August 28
 **9:20am**
-- What’s New in Android UI Engineering by Roman Nurik, Nick Butcher, Chris Banes
+- [What’s New in Android UI Engineering by Roman Nurik, Nick Butcher, Chris Banes](https://goo.gl/photos/9R6ss39caQHLyEmU6)
 
 **10:10am**
 - [Adding a new ingredient to Location-Based AR by Noe Branagan](https://speakerdeck.com/noebranagan/location-based-ar-with-beacons)
@@ -109,7 +109,7 @@ AUGUST 27-28 / 8AM-6PM
 - A simple SDK for creating and understanding app growth. by Evan Groth
 
 **4:30pm**
-- Android Metaprogramming by Audrey Troutt
+- [Android Metaprogramming by Audrey Troutt](https://speakerdeck.com/atroutt/android-metaprogramming)
 - "Buy a plunger before you need a plunger" - DevOps tools for Android by Brent Watson
 - Be a Good Citizen: Develop Maintainable Apps by Annyce Davis
 - Don’t Get Lost in Translation: Strategies for Serializing Data Structures by Christopher Brown
