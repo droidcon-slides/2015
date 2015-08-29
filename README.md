@@ -66,7 +66,7 @@ AUGUST 27-28 / 8AM-6PM
 
 #### Friday, August 28
 **9:20am**
-- What’s New in Android UI Engineering by Roman Nurik, Nick Butcher, Chris Banes
+- [What’s New in Android UI Engineering by Roman Nurik, Nick Butcher, Chris Banes](https://goo.gl/photos/9R6ss39caQHLyEmU6)
 
 **10:10am**
 - [Adding a new ingredient to Location-Based AR by Noe Branagan](https://speakerdeck.com/noebranagan/location-based-ar-with-beacons)
