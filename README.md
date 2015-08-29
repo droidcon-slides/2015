@@ -103,7 +103,7 @@ AUGUST 27-28 / 8AM-6PM
 
 **3:45pm**
 - Getting on TV: Mobile Apps for Chromecast - Somya Jain
-- Whoa, Views can do that? WindowManager ideas and tricks! by Eric Cochran
+- [Whoa, Views can do that? WindowManager ideas and tricks! by Eric Cochran](https://speakerdeck.com/nightlynexus/whoa-views-can-do-that-windowmanager-ideas-and-tricks)
 - Android Forestry at Square by Logan Johnson
 - Painless UI Testing by Kaushik Gopal
 - A simple SDK for creating and understanding app growth. by Evan Groth
