@@ -79,7 +79,7 @@ AUGUST 27-28 / 8AM-6PM
 - Gradle: From User to Addict by Jake Ouellette
 - [Better Code Through Lint and Checkstyle by Marc Prengemann](http://www.slideshare.net/marcprengemann/better-code-through-lint-and-checkstyle)
 - [Android Developer Options: What can those toggles do for me? by Andrea Falcone](https://speakerdeck.com/asfalcone/android-developer-options)
-- Android M Runtime Permissions by Mark Murphy
+- [Android M Runtime Permissions by Mark Murphy](https://commonsware.com/presos/droidconNYC2015)
 
 **11:50am**
 - Voice Actions & Interaction API: Ubiquitous & Hands-Free Interfaces for Android. by Nitya Narasimhan
@@ -95,15 +95,15 @@ AUGUST 27-28 / 8AM-6PM
 - [Animation to Guide Us All - How animations can improve the User Experience of your application by Marcos Paulo Damasceno](https://speakerdeck.com/marcospaulo/animations-to-guide-us-all)
 
 **2:20pm**
-- Game Basics: Animations with SurfaceView by Ana Redmond
+- [Game Basics: Animations with SurfaceView by Ana Redmond](http://infinut.com/2015/08/29/slides-from-my-droidcon-talk-on-animations-using-surface-view/)
 - Building a Node.js Backend in the Cloud for Android Apps by Nick Landry
 - [Introduction to Functional Reactive Programming by Juan Gomez](https://speakerdeck.com/juandg/intro-to-functional-reactive-programming-droidcon-mtl-2015)
-- Debug Builds: A New Hope by Matt Precious
+- [Debug Builds: A New Hope by Matt Precious](https://speakerdeck.com/mattprecious/debug-builds-a-new-hope-droidcon-ny-2015)
 - Building an awesome Android app with Firebase by Frank van Puffelen
 
 **3:45pm**
 - Getting on TV: Mobile Apps for Chromecast - Somya Jain
-- Whoa, Views can do that? WindowManager ideas and tricks! by Eric Cochran
+- [Whoa, Views can do that? WindowManager ideas and tricks! by Eric Cochran](https://speakerdeck.com/nightlynexus/whoa-views-can-do-that-windowmanager-ideas-and-tricks)
 - Android Forestry at Square by Logan Johnson
 - Painless UI Testing by Kaushik Gopal
 - A simple SDK for creating and understanding app growth. by Evan Groth
@@ -111,7 +111,7 @@ AUGUST 27-28 / 8AM-6PM
 **4:30pm**
 - [Android Metaprogramming by Audrey Troutt](https://speakerdeck.com/atroutt/android-metaprogramming)
 - "Buy a plunger before you need a plunger" - DevOps tools for Android by Brent Watson
-- Be a Good Citizen: Develop Maintainable Apps by Annyce Davis
+- [Be a Good Citizen: Develop Maintainable Apps by Annyce Davis](http://www.slideshare.net/AnnyceDavis/develop-maintainable-apps-droidcon-2015)
 - Don’t Get Lost in Translation: Strategies for Serializing Data Structures by Christopher Brown
 
 **5:15pm**
