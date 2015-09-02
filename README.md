@@ -20,7 +20,7 @@ AUGUST 27-28 / 8AM-6PM
 - Have you seen Cloud Spin? by Bret McGowen, Ray Tsang
 - [Advanced Android Espresso by Chiu-Ki Chan](http://chiuki.github.io/advanced-android-espresso/#/)
 - Building First Class Sdks: A Fabric Case Study by Ty Smith
-- Think Like an Animator by Zack Sultan, Kevin Grant
+- [Think Like an Animator by Zack Sultan, Kevin Grant](https://www.youtube.com/watch?v=rDXzDtEhVz0&feature=youtu.be)
 
 **11:50am**
 - [Kotlin: New Hope in a Java 6 Wasteland by Michael Pardo](https://speakerdeck.com/pardom/kotlin-new-hope-in-a-java-6-wasteland)
@@ -41,7 +41,7 @@ AUGUST 27-28 / 8AM-6PM
 - [A Pirate’s Guidelines for Android by Lisa Neigut](https://speakerdeck.com/niftynei/a-pirates-guidelines-for-android)
 
 **3:30pm**
-- Monetizing Free-to-Play: Finding the Right Balance between In-App Purchases vs. Ads by Naman Goel
+- [Monetizing Free-to-Play: Finding the Right Balance between In-App Purchases vs. Ads by Naman Goel](https://docs.google.com/presentation/d/1dx-MQ3CJ9YPyLhMzHkbFbETb6PJKbq5WNlh-HZwquqY/edit)
 - [Successful Continuous Integration on Android by Stephen D'Amico](https://speakerdeck.com/sddamico/continuous-integration-for-android-applications)
 - [Realm: Building a mobile database by Christian Melchior](http://www.slideshare.net/ChristianMelchior/realm-building-a-mobile-database)
 - Feedback Prototyping: the fastest way to an MVP by Jordan Matthiesen
