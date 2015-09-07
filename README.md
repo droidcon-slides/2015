@@ -49,7 +49,7 @@ AUGUST 27-28 / 8AM-6PM
 **4:20pm**
 - Monetizing apps on the Play Store: Integrating In-app Billing in your Android App by Yash Prabhu
 - [Fast deterministic screenshot tests for Android by Arnold Noronha](http://www.slideshare.net/ArnoldNoronha/fast-deterministic-screenshot-tests-for-android)
-- Android Accessibility 101 by Haley Rose Smith [![](./art/youtube.png)](https://www.youtube.com/watch?v=UOr3mgqJU0A&index=3&list=PLnVy79PaFHMUqqvwbjyKJZv1N8rzHOCBi)
+- [Android Accessibility 101 by Haley Rose Smith](http://schd.ws/hosted_files/droidconnyc2015/00/Android%20Acessibility%20101%20-%20Haley%20Smith.pdf) [![](./art/youtube.png)](https://www.youtube.com/watch?v=UOr3mgqJU0A&index=3&list=PLnVy79PaFHMUqqvwbjyKJZv1N8rzHOCBi)
 - [TextView how to turn design into reality for multiple languages by Elliott Chenger](https://speakerdeck.com/erchenger/textviews-and-localization)
 
 **5:10pm**
