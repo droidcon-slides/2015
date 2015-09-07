@@ -25,7 +25,7 @@ AUGUST 27-28 / 8AM-6PM
 **11:50am**
 - [Kotlin: New Hope in a Java 6 Wasteland by Michael Pardo](https://speakerdeck.com/pardom/kotlin-new-hope-in-a-java-6-wasteland)
 - Genymotion for Application testing and Continuous Integration by Sylvain Galand
-- [Simple HTTP with Retrofit 2 by Jake Wharton](https://speakerdeck.com/jakewharton/simple-http-with-retrofit-2-droidcon-nyc-2015)
+- [Simple HTTP with Retrofit 2 by Jake Wharton](https://speakerdeck.com/jakewharton/simple-http-with-retrofit-2-droidcon-nyc-2015) [![](./art/youtube.png)](https://www.youtube.com/watch?v=KIAoQbAu3eA&index=2&list=PLnVy79PaFHMUqqvwbjyKJZv1N8rzHOCBi)
 - Vector All The Things by Mark Allison
 
 **1:30pm**
@@ -49,7 +49,7 @@ AUGUST 27-28 / 8AM-6PM
 **4:20pm**
 - Monetizing apps on the Play Store: Integrating In-app Billing in your Android App by Yash Prabhu
 - [Fast deterministic screenshot tests for Android by Arnold Noronha](http://www.slideshare.net/ArnoldNoronha/fast-deterministic-screenshot-tests-for-android)
-- Android Accessibility 101 by Haley Rose Smith
+- Android Accessibility 101 by Haley Rose Smith [![](./art/youtube.png)](https://www.youtube.com/watch?v=UOr3mgqJU0A&index=3&list=PLnVy79PaFHMUqqvwbjyKJZv1N8rzHOCBi)
 - [TextView how to turn design into reality for multiple languages by Elliott Chenger](https://speakerdeck.com/erchenger/textviews-and-localization)
 
 **5:10pm**
@@ -72,7 +72,7 @@ AUGUST 27-28 / 8AM-6PM
 - [Adding a new ingredient to Location-Based AR by Noe Branagan](https://speakerdeck.com/noebranagan/location-based-ar-with-beacons)
 - Android, May I? by Larry Schiefer
 - [@AnnotationProcessors ("ByExample") by Michael Evans](https://speakerdeck.com/michaelevans/at-annotationprocessors-byexample-droidcon-nyc-2015)
-- Beautiful Typography on Android (or close enough) by Lisa Wray
+- Beautiful Typography on Android (or close enough) by Lisa Wray [![](./art/youtube.png)](https://www.youtube.com/watch?v=7GFRpP9a-eQ&index=1&list=PLnVy79PaFHMUqqvwbjyKJZv1N8rzHOCBi)
 
 **11:00am**
 - [Tools of the Trade by Sebastiano Poggi](https://speakerdeck.com/rock3r/tools-of-the-trade-droidcon-nyc-2015)
@@ -85,19 +85,19 @@ AUGUST 27-28 / 8AM-6PM
 - Voice Actions & Interaction API: Ubiquitous & Hands-Free Interfaces for Android. by Nitya Narasimhan
 - [10 ways to Improve Your Android App Performance by Boris Farber](http://www.slideshare.net/seamaster29/10-ways-to-improve-your-android-app)
 - [Data Binding Techniques by Jacob Tabak](https://speakerdeck.com/jacobtabak/data-binding-techniques-at-droidcon-nyc-2015)
-- The Road to 60FPS by Jason Sendros
+- The Road to 60FPS by Jason Sendros [![](./art/youtube.png)](https://www.youtube.com/watch?v=RFzhXbZu_N8&index=7&list=PLnVy79PaFHMUqqvwbjyKJZv1N8rzHOCBi)
 - Creating Offline Mobile Apps that Always Work by William Hoang
 
 **1:30pm**
 - An Intro to VR with Cardboard and Tango by Dario Laverde
 - [Android Engineering for Scale by Jamie McDonald](https://speakerdeck.com/jdamcd/android-engineering-for-scale)
-- How the Main Thread works by Michael Bailey
+- How the Main Thread works by Michael Bailey [![](./art/youtube.png)](https://www.youtube.com/watch?v=aFGbv9Ih9qQ&index=5&list=PLnVy79PaFHMUqqvwbjyKJZv1N8rzHOCBi)
 - [Animation to Guide Us All - How animations can improve the User Experience of your application by Marcos Paulo Damasceno](https://speakerdeck.com/marcospaulo/animations-to-guide-us-all)
 
 **2:20pm**
 - [Game Basics: Animations with SurfaceView by Ana Redmond](http://infinut.com/2015/08/29/slides-from-my-droidcon-talk-on-animations-using-surface-view/)
 - Building a Node.js Backend in the Cloud for Android Apps by Nick Landry
-- [Introduction to Functional Reactive Programming by Juan Gomez](https://speakerdeck.com/juandg/intro-to-functional-reactive-programming-droidcon-mtl-2015)
+- [Introduction to Functional Reactive Programming by Juan Gomez](https://speakerdeck.com/juandg/intro-to-functional-reactive-programming-droidcon-mtl-2015) [![](./art/youtube.png)](https://www.youtube.com/watch?v=_XKX6UQfNGY&index=4&list=PLnVy79PaFHMUqqvwbjyKJZv1N8rzHOCBi)
 - [Debug Builds: A New Hope by Matt Precious](https://speakerdeck.com/mattprecious/debug-builds-a-new-hope-droidcon-ny-2015)
 - Building an awesome Android app with Firebase by Frank van Puffelen
 
